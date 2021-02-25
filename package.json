@@ -26,19 +26,19 @@
   },
   "homepage": "https://github.com/roopakv/google-photos#readme",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-import": "^2.12.0",
-    "eslint-plugin-mocha": "^5.0.0",
-    "eslint-plugin-prettier": "^2.6.0",
-    "mocha": "^5.2.0",
-    "prettier": "^2.0.5"
+    "chai": "^4.3.0",
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-mocha": "^8.0.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "mocha": "^8.3.0",
+    "prettier": "^2.2.1"
   },
   "dependencies": {
-    "ky": "^0.20.0",
-    "ky-universal": "^0.6.0",
+    "ky": "^0.27.0",
+    "ky-universal": "^0.9.1",
     "lodash.chunk": "^4.2.0"
   }
 }
